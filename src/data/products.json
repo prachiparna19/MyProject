@@ -1,0 +1,46 @@
+{
+          "products": [
+                    {
+                              "id": 1,
+                              "name": "To Kill a Mockingbird",
+                              "description": "Lawyer Atticus Finch defends the real mockingbird of Harper Lee's classic",
+                              "image": "mockingbird.jpg",
+                              "price": 19.99
+                    },
+                    {
+                              "id": 2,
+                              "name": "All The Light",
+                              "description": "A blind French girl and a German boy whose paths collide in occupied France as both try to survive the devastation of World War II.",
+                              "image": "All-the-Light-We-Cannot-See.jpg",
+                              "price": 38.50
+                    },
+                    {
+                              "id": 3,
+                              "name": "Fahrenheit",
+                              "description": "When Mildred attempts suicide and Clarisse suddenly disappears, Montag begins to question everything he has ever known.",
+                              "image": "fahrenheit.jpg",
+                              "price": 12.99
+                    },
+                    {
+                              "id": 4,
+                              "name": "Kite Runner",
+                              "description": "The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father’s servant, caught in the tragic sweep of history",
+                              "image": "kite-runner.jpg",
+                              "price": 12.99
+                    },
+                    {
+                              "id": 5,
+                              "name": "The Alchemist",
+                              "description": "The Alchemist is the magical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure as extravagant as any ever found",
+                              "image": "The-Alchemist.jpg",
+                              "price": 12.99
+                    },
+                    {
+                              "id": 6,
+                              "name": "The Book Theif",
+                              "description": "Liesel Meminger is a foster girl living outside of Munich, who scratches out a meager existence for herself by stealing when she encounters something she can’t resist — books",
+                              "image": "the-book-thief.jpg",
+                              "price": 15.99
+                    }
+          ]
+}
